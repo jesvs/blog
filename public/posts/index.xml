@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Blog de jesvs</title>
+    <link>https://blog.jesvs.com/posts/</link>
+    <description>Recent content in Posts on Blog de jesvs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-mx</language>
+    <lastBuildDate>Wed, 19 Feb 2020 14:13:46 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.jesvs.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Setting up a Room database on Android with Kotlin</title>
+      <link>https://blog.jesvs.com/setting-up-a-room-database-on-android-with-kotlin/</link>
+      <pubDate>Wed, 19 Feb 2020 14:13:46 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/setting-up-a-room-database-on-android-with-kotlin/</guid>
+      <description>Setup the required dependencies. You’ll need the room-runtime and room-compiler.
+Dependencies &amp;amp; Gradle plugin // app/build.gradle apply plugin: &amp;#39;kotlin-kapt&amp;#39; dependencies { def room_version = &amp;#34;2.2.3&amp;#34; implementation &amp;#34;androidx.room:room-runtime:$room_version&amp;#34; kapt &amp;#34;androidx.room:room-compiler:$room_version&amp;#34; } Creating the database // Book.kt @Entity data class Book(@PrimaryKey val id: UUID = UUID.randomUUID(), var title: String = &amp;#34;&amp;#34;, var date: Date = Date(), var isComplete: Boolean = false) // database/BookDatabase.kt @Database(entities = [ Book::class ], version=1) @TypeConverters(BookTypeConverters::class) abstract class BookDatabase : RoomDatabase() { abstract fun bookDao(): BookDao } Type Converters // database/BookTypeConverters.</description>
+    </item>
+    
+    <item>
+      <title>Speed up badblocks check</title>
+      <link>https://blog.jesvs.com/speed-up-badblocks-check/</link>
+      <pubDate>Tue, 15 Jan 2019 23:29:03 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/speed-up-badblocks-check/</guid>
+      <description>Having ordered an external hard drive from China… let me rephrase that; having ordered a really cheap hard drive from an unknown source at the farthest side of the world, getting it handled by the not so delicate hands of the Mexican post office, and getting it delivered to my door by bicycle, of course I had to check it thoroughly before putting any data in it.
+I started with the well known way of checking for bad blocks on a storage device:</description>
+    </item>
+    
+    <item>
+      <title>fsck’d a full partition</title>
+      <link>https://blog.jesvs.com/fsckd-a-full-partition/</link>
+      <pubDate>Wed, 02 Jan 2019 10:52:09 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/fsckd-a-full-partition/</guid>
+      <description>I run Kodi on my Raspberry Pi 3 mainly to watch live streams and the occasional YouTube video. Along with the media player I also run a pair of Go programs to scrape, store and analyze web data. On New Year’s Eve the root partition on a 32GB SD card got full, this rendered the whole system unresponsive. No big deal, I said. Without ssh access nor physical console, I pulled the power plug from the Pi, took the card out and mounted it on my workstation.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.jesvs.com/637-2/</link>
+      <pubDate>Mon, 19 Nov 2018 17:48:57 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/637-2/</guid>
+      <description>“The spirit of Plato dies hard. We have been unable to escape the philosophical tradition that what we can see and measure in the world is merely the superficial and imperfect representation of an underlying reality.”
+—Stephen Jay Gould, The Mismeasure of Man</description>
+    </item>
+    
+    <item>
+      <title>A-ha – Take on Me: Del demo, a una mala versión, al éxito mundial</title>
+      <link>https://blog.jesvs.com/a-ha-take-on-me-del-demo-a-una-mala-version-al-exito-mundial/</link>
+      <pubDate>Wed, 06 Jun 2018 00:23:30 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/a-ha-take-on-me-del-demo-a-una-mala-version-al-exito-mundial/</guid>
+      <description>Les presento unas cuantas versiones de esta famosa canción para darnos una idea de lo que puede haber detrás de una creación musical tan exitosa.
+  La primer versión de 1981, titulada en ese entonces «The Juicy Fruit Song» era interpretada por el grupo «Bridges», que entre sus elementos dos de ellos formarían más tarde la banda A-ha.
+  La segunda versión de 1982 es una «demo» grabada en otoño, por la banda ya bajo el nombre de A-ha.</description>
+    </item>
+    
+    <item>
+      <title>Como mejorar nuestras conversaciones</title>
+      <link>https://blog.jesvs.com/como-mejorar-nuestras-conversaciones/</link>
+      <pubDate>Wed, 21 Feb 2018 04:19:35 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/como-mejorar-nuestras-conversaciones/</guid>
+      <description>Comparto estas notas tomadas del libro «Improv(e) Your Conversations» de Patrick King que trata de como mejorar nuestras conversaciones utilizando técnicas de comedia de improvisación.
+ Piensa en las conversaciones como si fueran un juego donde todos los jugadores son del mismo equipo y el objetivo es tener una conversación fluida. Tu objetivo personal es contribuir al flujo y la espontaneidad. Eres un aliado no un adversario. Lo que mata el flujo: El ego y agendas (motivaciones secretas).</description>
+    </item>
+    
+    <item>
+      <title>Jorge Drexler – Movimiento</title>
+      <link>https://blog.jesvs.com/jorge-drexler-movimiento/</link>
+      <pubDate>Fri, 10 Nov 2017 04:42:32 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/jorge-drexler-movimiento/</guid>
+      <description>‘Movimiento’ JORGE DREXLER
+Apenas nos pusimos en dos pies
+Comenzamos a migrar por la sabana
+Siguiendo la manada de bisontes
+Más allá del horizonte
+A nuevas tierras, lejanas
+Los niños a la espalda y expectantes
+Los ojos en alerta, todo oídos
+Olfateando aquel desconcertante paisaje nuevo, desconocido.
+Somos una especie en viaje
+No tenemos pertenencias sino equipaje
+Vamos con el polen en el viento
+Estamos vivos porque estamos en movimiento</description>
+    </item>
+    
+    <item>
+      <title>Arlissa – New Love</title>
+      <link>https://blog.jesvs.com/arlissa-new-love/</link>
+      <pubDate>Wed, 01 Nov 2017 19:24:48 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/arlissa-new-love/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Formula 1 – Mexico ‘67</title>
+      <link>https://blog.jesvs.com/formula-1-mexico-67/</link>
+      <pubDate>Wed, 01 Nov 2017 19:15:32 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/formula-1-mexico-67/</guid>
+      <description>Foto tomada el 22 de octubre de 1967 en el circuito Magdalena Mixhuaca (ahora Autódromo Hnos. Rodríguez). Nótese el alto potencial de riesgo y paupérrimas medidas de seguridad, la cercanía de los aficionados a la pista y la curva resguardada por militares. No cabe duda que eran otros tiempos.</description>
+    </item>
+    
+    <item>
+      <title>A Change</title>
+      <link>https://blog.jesvs.com/a-change/</link>
+      <pubDate>Sat, 21 Oct 2017 13:39:28 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/a-change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blade Runner 2049</title>
+      <link>https://blog.jesvs.com/blade-runner-2049/</link>
+      <pubDate>Tue, 17 Oct 2017 05:03:04 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/blade-runner-2049/</guid>
+      <description>Hace unos días escribí sobre mi experiencia de ver 2001: Odisea en el Espacioen el cine. Llámenme despistado, porque ni enterado estaba que la secuela de mi segunda película favorita, Blade Runner, estaba por estrenarse. Después de sortear varios contratiempos, los astros se alinearon y al fin pude ir a verla, aquí mi relato.
+La original Blade Runner la considero una obra insuperable en todos los aspectos, de esas películas que al parecer todos los involucrados (Harrison Ford, Rutger Hauer, Sean Young, Ridley Scott, Vangelis) estaban en su mejor momento o fueron simultáneamente tocados por un ser divino.</description>
+    </item>
+    
+    <item>
+      <title>We are punished by our sins</title>
+      <link>https://blog.jesvs.com/sins/</link>
+      <pubDate>Mon, 16 Oct 2017 13:47:33 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/sins/</guid>
+      <description>“We are punished by our sins, not for them.” – Elbert Hubbard</description>
+    </item>
+    
+    <item>
+      <title>How not to rant</title>
+      <link>https://blog.jesvs.com/how-not-to-rant/</link>
+      <pubDate>Sat, 14 Oct 2017 03:25:41 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/how-not-to-rant/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>God Almighty</title>
+      <link>https://blog.jesvs.com/god-almighty/</link>
+      <pubDate>Wed, 04 Oct 2017 05:43:56 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/god-almighty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U.S. Citizens relocating to Mexico</title>
+      <link>https://blog.jesvs.com/u-s-citizens-relocating-to-mexico/</link>
+      <pubDate>Thu, 14 Sep 2017 08:17:12 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/u-s-citizens-relocating-to-mexico/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>2001 Odisea en el… ¡Cine!</title>
+      <link>https://blog.jesvs.com/2001-odisea-en-el-espacio/</link>
+      <pubDate>Mon, 11 Sep 2017 05:07:08 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/2001-odisea-en-el-espacio/</guid>
+      <description>https://blog.jesvs.com/wp-content/uploads/2017/09/odisea_en_el_cine.mp3En el espacio de «Contenidos Alternativos» de Cinepolis han programado algunas películas de Stanley Kubrik, entre ellas una de mis favoritas (si no es que mi favorita): 2001 Odisea en el Espacio. Estoy seguro que debo haberla visto más de 10 veces, pero nunca en el cine, así que esta oportunidad no la iba a dejar pasar.
+La última función en cartelera era a las 5 de la tarde, y ya eran las 4:15.</description>
+    </item>
+    
+    <item>
+      <title>Words Are Very Unnecesary</title>
+      <link>https://blog.jesvs.com/words-are-very-unnecesary/</link>
+      <pubDate>Wed, 30 Aug 2017 06:06:59 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/words-are-very-unnecesary/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Sleeping At Last – Saturn</title>
+      <link>https://blog.jesvs.com/sleeping-at-last-saturn/</link>
+      <pubDate>Fri, 03 Mar 2017 07:24:06 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/sleeping-at-last-saturn/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>https://blog.jesvs.com/links/</link>
+      <pubDate>Wed, 01 Mar 2017 21:16:18 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/links/</guid>
+      <description> Are we different people in different languages? The rise of the useless class New Zealand Will Give You a Free Trip If You Agree to a Job Interview J.C. Penney’s troubles are reflected in satellite images of its parking lots Design a Perfect Search Box  </description>
+    </item>
+    
+    <item>
+      <title>Todas las luchas son la misma lucha</title>
+      <link>https://blog.jesvs.com/todas-las-luchas-son-la-misma-lucha/</link>
+      <pubDate>Wed, 30 Nov 2016 12:29:58 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/todas-las-luchas-son-la-misma-lucha/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Relationship Advice</title>
+      <link>https://blog.jesvs.com/relationship-advice/</link>
+      <pubDate>Tue, 22 Nov 2016 16:18:46 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/relationship-advice/</guid>
+      <description>Be with someone who gives you the same feeling as when you see your food coming at restaurant.</description>
+    </item>
+    
+    <item>
+      <title>Luna</title>
+      <link>https://blog.jesvs.com/luna/</link>
+      <pubDate>Tue, 22 Nov 2016 08:43:38 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/luna/</guid>
+      <description>La Luna captada cinco días después de la Super Luna de Noviembre del 2016.
+Video captado con una Canon T3i con la ayuda de un telescopio Meade LXD75 10″.</description>
+    </item>
+    
+    <item>
+      <title>Indifference is a power</title>
+      <link>https://blog.jesvs.com/indifference-is-a-power/</link>
+      <pubDate>Sun, 20 Nov 2016 14:09:47 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/indifference-is-a-power/</guid>
+      <description>Why stoicism is on of the best mind hacks ever devised.</description>
+    </item>
+    
+    <item>
+      <title>Fabricación de Globo Terrestre (1955)</title>
+      <link>https://blog.jesvs.com/fabricacion-de-globo-terrestre-1955/</link>
+      <pubDate>Fri, 18 Nov 2016 13:04:56 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/fabricacion-de-globo-terrestre-1955/</guid>
+      <description>Dato curioso: El globo terrestre más antiguo que se conserva fue realizado entre 1491 y 1493 y las Américas aún no están incluidas.</description>
+    </item>
+    
+    <item>
+      <title>Berlín, Julio 1945 – Color HD</title>
+      <link>https://blog.jesvs.com/berlin-julio-1945-color-hd/</link>
+      <pubDate>Wed, 16 Nov 2016 07:04:10 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/berlin-julio-1945-color-hd/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>What to Do About Trump?</title>
+      <link>https://blog.jesvs.com/what-to-do-about-trump/</link>
+      <pubDate>Wed, 16 Nov 2016 06:18:29 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/what-to-do-about-trump/</guid>
+      <description>When the levers of power are seized by the small hands of hateful men, you work hard, you stand with those who are most vulnerable, and you don’t give up until it’s morning again. The rest is commentary.
+ Liel Leibovitz – What to Do About Trump? The Same Thing My Grandfather Did in 1930s Vienna.</description>
+    </item>
+    
+    <item>
+      <title>2016</title>
+      <link>https://blog.jesvs.com/2016-2/</link>
+      <pubDate>Wed, 09 Nov 2016 01:40:17 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/2016-2/</guid>
+      <description>«Hace un año: 2015.»</description>
+    </item>
+    
+    <item>
+      <title>Dulces Son Los Frutos De La Adversidad</title>
+      <link>https://blog.jesvs.com/dulces-son-los-frutos-de-la-adversidad/</link>
+      <pubDate>Tue, 08 Nov 2016 04:09:25 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/dulces-son-los-frutos-de-la-adversidad/</guid>
+      <description>Buena charla de Karla Souza tratando temas desde la motivación y la lucha por conseguir el éxito.</description>
+    </item>
+    
+    <item>
+      <title>Badlands (1973)</title>
+      <link>https://blog.jesvs.com/badlands-1973/</link>
+      <pubDate>Fri, 04 Nov 2016 12:48:37 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/badlands-1973/</guid>
+      <description>Hoy me tocó ver Badlands, me llamó mucho la atención lo visualmente fuerte que es… confieso que no le estaba prestando mucha atención. La tenía como «ruido de fondo» y volteaba a verla solo de vez en cuando.
+¡Soy un hereje! Lo sé, lo sé.
+Mientras la veía hice algunas capturas para posteriormente poder anotar y estudiar los cuadros.
+  Mpv shot0001
+      Mpv shot0002</description>
+    </item>
+    
+    <item>
+      <title>Frases de Bicicletas</title>
+      <link>https://blog.jesvs.com/frases-de-bicicletas/</link>
+      <pubDate>Thu, 03 Nov 2016 09:30:33 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/frases-de-bicicletas/</guid>
+      <description>_– ¿Cómo explica su sorprendente nivel de aguante y energía a los 87 años?
+_ – La teoría de la bicicleta. Mientras sigas andando, no te caes. – Noam Chomsky.
+ “La vida es como montar en bicicleta. Para mantener el equilibro hay que seguir pedaleando”. – Albert Einstein.
+ “Las computadoras son como una bicicleta para nuestras mentes”. – Steve Jobs.
+ </description>
+    </item>
+    
+    <item>
+      <title>You May Now Kiss The Bride</title>
+      <link>https://blog.jesvs.com/you-may-now-kiss-the-bride/</link>
+      <pubDate>Wed, 02 Nov 2016 19:47:13 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/you-may-now-kiss-the-bride/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimento en Video: Wednesday Thursday Friday</title>
+      <link>https://blog.jesvs.com/experimento-en-video-wednesday-thursday-friday/</link>
+      <pubDate>Sun, 30 Oct 2016 10:50:42 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/experimento-en-video-wednesday-thursday-friday/</guid>
+      <description>Este mes de Octubre me entró la curiosidad por retomar algo que mantuve olvidado desde hace años, editar video. La inspiración llegó al estar intentando darle un look de cine a unos videos grabados con cámara fotográfica.
+Acerca del video Quise exponer el tema de la frustración. La inspiración llegó a partir de un video que tomé sin querer, que les contaré más adelante.
+Las primeras tomas donde se ven dos intentos fallidos de atrapar insectos significan el deseo de poseer algo (o a alguien) que no nos corresponde, no meramente robar, sino ese tipo de deseo que nos ciega y termina por perjudicar, como Ícaro volando hacia el Sol o Narciso enamorado de su propia imagen.</description>
+    </item>
+    
+    <item>
+      <title>Déjalo</title>
+      <link>https://blog.jesvs.com/dejalo/</link>
+      <pubDate>Wed, 26 Oct 2016 04:07:37 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/dejalo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jerk</title>
+      <link>https://blog.jesvs.com/jerk/</link>
+      <pubDate>Fri, 21 Oct 2016 17:33:09 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/jerk/</guid>
+      <description>     </description>
+    </item>
+    
+    <item>
+      <title>Desobediencia Tecnológica</title>
+      <link>https://blog.jesvs.com/desobediencia-tecnologica/</link>
+      <pubDate>Tue, 11 Oct 2016 16:14:13 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/desobediencia-tecnologica/</guid>
+      <description>Fascinante pequeño documental que relata como los cubanos, tras la caída de la unión soviética, tuvieron que readaptar tecnologías existentes para cubrir sus demandas técnicas.</description>
+    </item>
+    
+    <item>
+      <title>Typical Car Salesman</title>
+      <link>https://blog.jesvs.com/typical-car-salesman/</link>
+      <pubDate>Thu, 15 Sep 2016 20:35:14 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/typical-car-salesman/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Rollos de Helado</title>
+      <link>https://blog.jesvs.com/rollos-de-helado/</link>
+      <pubDate>Mon, 29 Aug 2016 21:47:05 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/rollos-de-helado/</guid>
+      <description>Encontré este interesante video de una manera muy singular de preparar un helado.
+En el video se muestra como en una plancha fría se vierten la crema y un ingrediente que le dará sabor al helado, en este caso una galleta Oreo. Luego de un minuto de trabajar la mezcla con un par de espátulas, se extiende sobre la plancha formando una capa delgada para luego rasparla en forma de rollos.</description>
+    </item>
+    
+    <item>
+      <title>Mansplaining</title>
+      <link>https://blog.jesvs.com/mansplaining/</link>
+      <pubDate>Fri, 19 Aug 2016 16:20:55 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/mansplaining/</guid>
+      <description>dailymotion x4pbpy0
+ </description>
+    </item>
+    
+    <item>
+      <title>Pour arriver à tes côtés</title>
+      <link>https://blog.jesvs.com/pour-arriver-a-tes-cotes/</link>
+      <pubDate>Sat, 13 Aug 2016 00:18:12 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/pour-arriver-a-tes-cotes/</guid>
+      <description>Je remercie ton corps
+de m’avoir attendu.
+Il a fallu que je me perde
+pour arriver jusqu’à toi.
+Je remercie tes bras
+d’avoir pu m’atteindre.
+Il a fallu que je m’éloigne
+pour arriver jusqu’à toi.
+Je remercie tes mains
+d’avoir pu me supporter.
+Il a fallu que je brûle
+pour arriver jusqu’à toi.
+Gracias a tu cuerpo doy
+por haberme esperado.
+Tuve que perderme
+para llegar hasta tu lado.
+Gracias a tus brazos doy</description>
+    </item>
+    
+    <item>
+      <title>Mejor que la original: Misty Blue</title>
+      <link>https://blog.jesvs.com/mejor-que-la-original-misty-blue/</link>
+      <pubDate>Fri, 12 Aug 2016 21:33:58 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/mejor-que-la-original-misty-blue/</guid>
+      <description>Misty Blue, probablemente si la haz escuchado ha sido la versión de Dorothy Blue, pero este tema no es original de ella, aquí una breve historia.
+Este tema fue compuesto en 1966 por Bobby Montgomery como el regalo perfecto para Brenda Lee (según Montgomery) pero ella lo rechazó… ¿por qué? ni idea. El productor al no poder convencer a Lee de grabar el tema, se lo da a Wilma Burgess para grabarlo al estilo country.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.jesvs.com/214-2/</link>
+      <pubDate>Mon, 02 May 2016 10:00:59 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/214-2/</guid>
+      <description>El día 30 de marzo aproximadamente a las 3 PM en las calles Jacinto Benavente y Gabriel García Márquez de Ciudad Juárez, recorría dichas arterías a bordo de mi bicicleta, comienzo a escuchar algo lo que me pareció una mujer gritando que ya no la golpearan, no se escuchaban muy lejos, a solo un par de cuadras de distancia. Al dirigirme hacía el origen de los gritos pude confirmar que un hombre estaba golpeando a una mujer.</description>
+    </item>
+    
+    <item>
+      <title>Manual de Curriculum Vitae</title>
+      <link>https://blog.jesvs.com/manual-de-curriculum-vitae/</link>
+      <pubDate>Sun, 03 Apr 2016 22:49:59 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/manual-de-curriculum-vitae/</guid>
+      <description>Cuando tu Curriculum Vitae (CV) llega a las manos del seleccionador, éste tarda sólo 10 segundos en decidir si seguirá leyendo… Si lo hace, entonces sólo necesitará otros 20 segundos más para tomar la decisión de colocarlo en la bandeja de candidatos potenciales para analizarlo luego en profundidad. La mayoría terminarán en la papelera de reciclaje (si es que los han impreso) o en la papelera del ordenador.
+Observa la primera plana de un diario cualquiera y fíjate adonde va primero tu vista (¿a la izquierda o a la derecha?</description>
+    </item>
+    
+    <item>
+      <title>Talento</title>
+      <link>https://blog.jesvs.com/talento/</link>
+      <pubDate>Sun, 20 Mar 2016 07:45:41 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/talento/</guid>
+      <description>Se dice: fulano no tiene talento, sólo tiene un estilo. Pero justamente es ese estilo particular lo que no se puede inventar, es con lo que se nace. Es una gracia heredada, el privilegio que tienen algunos de hacer sentir su pulsación orgánica: es algo más que el talento, es su esencia.
+ Emil Cioran</description>
+    </item>
+    
+    <item>
+      <title>Danke</title>
+      <link>https://blog.jesvs.com/danke/</link>
+      <pubDate>Sat, 19 Mar 2016 05:41:49 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/danke/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Selfie Stick en película Sci-Fi de 1970</title>
+      <link>https://blog.jesvs.com/selfie-stick-en-pelicula-sci-fi-de-1970/</link>
+      <pubDate>Fri, 04 Mar 2016 06:23:58 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/selfie-stick-en-pelicula-sci-fi-de-1970/</guid>
+      <description>El clip es de una película Checa cómica de ciencia ficción titulada Zabil jsem Einsteina, panove(Maté a Einstein, caballeros) de 1970.
+La trama suena como un verdadero petardo: debido a la radiación nuclear a las mujeres les creció barba y perdieron la habilidad de concebir. En las Naciones Unidas se debate la posibilidad de construir una máquina del tiempo para viajar al pasado, asesinar a Einstein, y así impedir que las bombas nucleares sean inventadas.</description>
+    </item>
+    
+    <item>
+      <title>Arte en el Siglo XXI</title>
+      <link>https://blog.jesvs.com/arte-en-el-siglo-xxi/</link>
+      <pubDate>Thu, 03 Mar 2016 05:37:59 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/arte-en-el-siglo-xxi/</guid>
+      <description>La idea preconcebida actual es pensar en una galería de arte cuando se habla de una exposición de pinturas, pero esto muy seguramente cambiará en los próximos años.
+Bienvenidos al siglo XXI y el inevitable estado ubicuo de la Realidad Virtual.
+  Tilt Brush de Googlees un software que permite al usuario/artista pintar en un mundo virtual utilizando un sistema de realidad virtual.
+  Las posibilidades son ilimitadas y su futuro muy prometedor, tomando en cuenta que es una tecnología emergente.</description>
+    </item>
+    
+    <item>
+      <title>Bastón de Madera con Víbora Realista Esculpido a Mano</title>
+      <link>https://blog.jesvs.com/baston-de-madera-con-vibora-realista-esculpido-a-mano/</link>
+      <pubDate>Mon, 01 Feb 2016 20:17:28 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/baston-de-madera-con-vibora-realista-esculpido-a-mano/</guid>
+      <description>Es increíble como en manos talentosas un simple trozo de madera puede convertirse en una obra de arte.
+Me dejó sorprendido la atención al detalle, pero mas que nada, la paciencia para crear el efecto de las escamas. Ni me imagino cuanto debió tomarle quemar –una a una– las escamas.
+Digno de admiración.</description>
+    </item>
+    
+    <item>
+      <title>Mejor que la Original: Black Magic Woman</title>
+      <link>https://blog.jesvs.com/black-magic-woman/</link>
+      <pubDate>Mon, 01 Feb 2016 13:45:01 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/black-magic-woman/</guid>
+      <description>Por lo general aplica eso de «Lo Original Es Siempre Lo Mejor», y como en todo, siempre habrá algunas honrosas excepciones.
+Como es el caso de esta canción, Black Magic Woman, compuesta por Peter Green (fundador de Fleetwood Mac) y lanzada en 1968, ocupando un paupérrimo lugar #47 en las listas de popularidad del Reino Unido. Sí, aunque les parezca sorprendente, Black Magic Woman no es original de Santana.
+  En caso de que vivas debajo de una roca, este es el cover de Santana de 1970, sin duda mucho mas popular que el original.</description>
+    </item>
+    
+    <item>
+      <title>2015</title>
+      <link>https://blog.jesvs.com/2015-2/</link>
+      <pubDate>Sat, 21 Nov 2015 01:33:29 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/2015-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Sound of Insects</title>
+      <link>https://blog.jesvs.com/the-sound-of-insects/</link>
+      <pubDate>Mon, 09 Nov 2015 08:05:46 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/the-sound-of-insects/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>One of my turns</title>
+      <link>https://blog.jesvs.com/one-of-my-turns/</link>
+      <pubDate>Fri, 09 Oct 2015 10:23:59 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/one-of-my-turns/</guid>
+      <description>“One Of My Turns” Day after day, love turns grey
+Like the skin of a dying man
+Night after night, we pretend it’s all right
+But I have grown older and
+You have grown colder and
+Nothing is very much fun any more.
+And I can feel one of my turns coming on.
+I feel cold as razor blade
+Tight as a tourniquet
+Dry as a funeral drum.
+Run to the bedroom, in the suitcase on the left</description>
+    </item>
+    
+    <item>
+      <title>“Si eres paciente en un momento de ira, escaparás a cien días de tristeza”</title>
+      <link>https://blog.jesvs.com/si-eres-paciente-en-un-momento-de-ira-escaparas-a-cien-dias-de-tristeza/</link>
+      <pubDate>Sat, 03 Oct 2015 08:13:04 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/si-eres-paciente-en-un-momento-de-ira-escaparas-a-cien-dias-de-tristeza/</guid>
+      <description>Proverbio Chino</description>
+    </item>
+    
+    <item>
+      <title>Natural Esa</title>
+      <link>https://blog.jesvs.com/natural-esa/</link>
+      <pubDate>Fri, 02 Oct 2015 16:24:59 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/natural-esa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mar Negro</title>
+      <link>https://blog.jesvs.com/mar-negro/</link>
+      <pubDate>Fri, 02 Oct 2015 16:22:24 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/mar-negro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clon Chino de Arduino Nano</title>
+      <link>https://blog.jesvs.com/clon-de-arduino-nano/</link>
+      <pubDate>Fri, 02 Oct 2015 08:55:34 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/clon-de-arduino-nano/</guid>
+      <description>Ahora que hice el post de prueba recordé que este clon chino de Arduino necesita drivers específicos para programarlo.
+El chip CH340G se convirtió en el USB a Serial de facto entre los clones de Arduino, luego de que FTDI implementara “medidas de protección al usuario” en el driver oficial de Windows para anular los chips FT232RL piratas.
+Vaya tiempos que nos tocó vivir, medidas de seguridad en un driver para contrarrestar piratería de microchips.</description>
+    </item>
+    
+    <item>
+      <title>Rubbish</title>
+      <link>https://blog.jesvs.com/rubbish/</link>
+      <pubDate>Fri, 02 Oct 2015 08:49:01 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/rubbish/</guid>
+      <description>Featured images don’t seem towork 🙁</description>
+    </item>
+    
+    <item>
+      <title>Desktop</title>
+      <link>https://blog.jesvs.com/desktop/</link>
+      <pubDate>Fri, 02 Oct 2015 08:41:26 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/desktop/</guid>
+      <description>Probando publicar desde la aplicación de WordPress en Android.</description>
+    </item>
+    
+    <item>
+      <title>Estáticas Urbanas</title>
+      <link>https://blog.jesvs.com/yo-te-doy-mucho/</link>
+      <pubDate>Fri, 02 Oct 2015 08:12:01 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/yo-te-doy-mucho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>El Sistema</title>
+      <link>https://blog.jesvs.com/el-sistema/</link>
+      <pubDate>Sun, 12 Jul 2015 19:31:49 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/el-sistema/</guid>
+      <description>Los funcionarios no funcionan.
+Los políticos hablan pero no dicen.
+Los votantes votan pero no eligen.
+Los medios de información desinforman.
+Los centros de enseñanza enseñan a ignorar.
+Los jueces condenan a las víctimas.
+Los militares están en guerra contra sus compatriotas.
+Los policías no combaten los crímenes, porque están ocupados en cometerlos.
+Las bancarrotas se socializan, las ganancias se privatizan.
+Es mas libre el dinero que la gente.
+La gente esta al servicio de las cosas.</description>
+    </item>
+    
+    <item>
+      <title>Los cuatro enemigos disfrazados de amigos</title>
+      <link>https://blog.jesvs.com/los-cuatro-enemigos-disfrazados-de-amigos/</link>
+      <pubDate>Wed, 01 Apr 2015 15:22:28 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/los-cuatro-enemigos-disfrazados-de-amigos/</guid>
+      <description>Estén atentos y conscientes de estos cuatro enemigos disfrazados de amigos:
+ El acaparador. El hablador. El adulador. El imprudente.  El acaparador lo identificas por cuatro cualidades: solo toma, pide mucho y da poco, hace su deber solo por temor, y ofrece servicios solo a cambio de obtener algo.
+El hablador lo identificas por cuatro cualidades: siempre te está recordando de su generosidad, promete ser generoso, dice palabras vacías de bondad, y te hace saber su desgracia personal cuando se le pide ayuda.</description>
+    </item>
+    
+    <item>
+      <title>Los cuatro tipos de buenos amigos</title>
+      <link>https://blog.jesvs.com/los-cuatro-tipos-de-buenos-amigos/</link>
+      <pubDate>Wed, 01 Apr 2015 14:58:08 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/los-cuatro-tipos-de-buenos-amigos/</guid>
+      <description>Sean conscientes de estos cuatro amigos de buen corazón:
+ El ayudante. El que permanece en las buenas y en las malas. El mentor. El compasivo.  El ayudante lo puedes identificar por cuatro cualidades: te protege cuando estás vulnerable, hace lo mismo con tu riqueza, es un refugio cuando tienes miedo, y en varias ocasiones proporciona el doble de lo que se le pide.
+El amigo perdurable lo identificas por cuatro cualidades: te cuenta sus secretos, guarda tus propios secretos, no te abandona en la desgracia, y es capaz de dar la vida por ti.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.jesvs.com/p31/</link>
+      <pubDate>Wed, 01 Apr 2015 14:36:40 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/p31/</guid>
+      <description>El aprendizaje desarrolla convicción la cual crea determinación que produce acción / esfuerzo que lleva al cambio. – Dalai Lama</description>
+    </item>
+    
+    <item>
+      <title>Una infancia condenada a fracasar</title>
+      <link>https://blog.jesvs.com/una-infancia-condenada-a-fracasar/</link>
+      <pubDate>Wed, 01 Apr 2015 13:09:50 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/una-infancia-condenada-a-fracasar/</guid>
+      <description>A principios de los años 1990s un equipo de psicólogos se dieron a la tarea de determinar como la atención de una madre afecta a sus hijos conforme crecen. Tomaron dos grupos de simios y los pusieron en dos entornos distintos. En el primer entorno la madre siempre tenía acceso a alimento. Ella podía centrar toda su atención en su bebé en lugar de estar constantemente en busca de alimento. En el segundo ambiente, la comida era difícil de conseguir.</description>
+    </item>
+    
+    <item>
+      <title>PHP trojan inside a PNG</title>
+      <link>https://blog.jesvs.com/php-trojan-inside-a-png/</link>
+      <pubDate>Fri, 12 Sep 2014 02:32:14 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/php-trojan-inside-a-png/</guid>
+      <description>During a recent security audit I found a PHP script obfuscated inside a filename called social.png, that was used via an include call from another PHP file. This script came inside a pirated version of a commercial plugin for WordPress. The file is identified as Trojan.PHP.Shell.W or PHP/Alter.A by some malware checking tools (ESET-NOD32, BitDefender).
+Inside the script I decoded the following data: domain names, emails and a public key. They are being used for malicious purposes (spread malware) mostly on WordPress.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.jesvs.com/p278/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/p278/</guid>
+      <description>La Coca Cola es un constructo burgués inventado por la oligarquía occidental para oprimir y marginalizar las voces del proletariado.
+Los verdaderos comunistas toman Pepsi.
+Judge Judy is a bourgeois construct concocted by the Western oligarchy to oppress and marginalize the voices of the proletariat.
+Real Communists watch The People’s Court.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.jesvs.com/p609/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/p609/</guid>
+      <description>Despierto un día como cualquier otro, con la única diferencia de que el tono de la alarma es una canción que la siento muy familiar, aunque estoy totalmente seguro que nunca la había escuchado. Es un sentimiento muy extraño, porque hasta la letra de la canción me se de memoria.
+ </description>
+    </item>
+    
+    <item>
+      <title>Aerodynamic de Daft Punk en 100 Líneas de Código</title>
+      <link>https://blog.jesvs.com/p167/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/p167/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ataque al Internet: Lo mejor que pudo haber pasado</title>
+      <link>https://blog.jesvs.com/p300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/p300/</guid>
+      <description>El pasado viernes (21 de Octubre del 2016), se llevó a cabo un ataque cibernético coordinado contra DynDNS, haciendo imposible acceder a ciertos sitios muy populares en internet como Twitter, Spotify o New York Times.
+Hay quienes aseguran que ese ataque solo fue una “probadita” de lo que pudiera ser “El Ataque”.</description>
+    </item>
+    
+    <item>
+      <title>Bombardeo de Ayuda Humanitaria</title>
+      <link>https://blog.jesvs.com/p600/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/p600/</guid>
+      <description>Me llamó la atención este video y recordé algo que ha rondado mi cabeza por mucho tiempo. Tiene que ver con la famosa renta básica universal (RBU), también conocida como ingreso ciudadano. La RBU es un tipo de seguridad social donde todo ciudadano recibe un ingreso incondicional sin importar si trabaja o no.
+https://blog.jesvs.com/wp-content/uploads/2018/03/bombardeo.mp4En el video se ve un avión de las Naciones Unidas dejando caer ayuda humanitaria sobre un establecimiento de refugiados en Sudán, en este caso se trata de aceite para cocinar.</description>
+    </item>
+    
+    <item>
+      <title>Desarmando al narcisista</title>
+      <link>https://blog.jesvs.com/p599/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/p599/</guid>
+      <description>Acabo de leer Disarming the Narcissist de Wendy T. Behary. El libro ofrece una muy buena descripción de lo que es ser narcisista y como identificarlo. Nos dice que en gran mayoría todos somos narcisistas, aunque algunos</description>
+    </item>
+    
+    <item>
+      <title>Gary Oldman</title>
+      <link>https://blog.jesvs.com/p333/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/p333/</guid>
+      <description>Si Gary Oldman fuera un animal seguramente sería un pulpo, como el de este video.
+ </description>
+    </item>
+    
+    <item>
+      <title>Ideas</title>
+      <link>https://blog.jesvs.com/p8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/p8/</guid>
+      <description>Bitcoin expendable paper wallets
+Demographic based ratings.
+Show me the rating based on the demographic: (ie. Rated 4/5 by Computer Experts).</description>
+    </item>
+    
+    <item>
+      <title>Mundial</title>
+      <link>https://blog.jesvs.com/p619/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/p619/</guid>
+      <description>Uno de los recuerdos que tengo sobre los mundiales es el primer partido de México en México 86. En aquel entonces tenía 10 años, con la única responsabilidad de ir a la escuela y hacer las tareas escolares. Vagar en bici por las calles y el tiempo libre lo repartía entre hacer tareas escolares y videojuegos. Sí muchachos, en 1986 ya existían los videojuegos. Teníamos un Atari 2600 y una Commodore 64, cerca de mi casa había varias tiendas de abarrotes con «maquinitas» como Pac-Man, Centipide, Tron o Spy Hunter.</description>
+    </item>
+    
+    <item>
+      <title>Nostalgia</title>
+      <link>https://blog.jesvs.com/p288/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/p288/</guid>
+      <description>La nostalgia no es necesariamente buena.
+Ejemplo, los subtítulos de color blanco en las películas que se pierden en un fondo claro.
+Ver esos subtítulos nos puede traer lindos recuerdos de cuando por limitantes técnicas era la única manera de mostrar subtítulos.</description>
+    </item>
+    
+    <item>
+      <title>Paloma Ala Blanca</title>
+      <link>https://blog.jesvs.com/p607/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/p607/</guid>
+      <description>Es muy común escuchar por las mañanas el canto de un ave</description>
+    </item>
+    
+    <item>
+      <title>Proyecto: Digitalizar películas 8mm con una Raspberry Pi</title>
+      <link>https://blog.jesvs.com/p634/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/p634/</guid>
+      <description>Especificaciones del bulbo original:
+ Temperatura de color: 3200K Watts: 80w Voltage: 30v Horas promedio de vida: 15 (LOL)  </description>
+    </item>
+    
+    <item>
+      <title>Ray Manzarek – Riders on the Storm</title>
+      <link>https://blog.jesvs.com/p535/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/p535/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Solo una persona</title>
+      <link>https://blog.jesvs.com/p588/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/p588/</guid>
+      <description>Hay una persona que siente gusto o alegría al recordarte, solo recuerda lo bueno de ti. Esa persona sabe atesorar recuerdos gratos. ¿Crees que existe esa persona? Espero no comiences a ahogarte en un río de gente y logres ponerle rostro a la hipótesis.
+Algunos optimistas dicen que la vida es corta, que el mundo es chiquito y que las distancias cada vez son más pequeñas. Que temor sentirse opuesto a estas afirmaciones.</description>
+    </item>
+    
+    <item>
+      <title>SquashFS&#43;Zstd usr partition benchmarks</title>
+      <link>https://blog.jesvs.com/p632/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/p632/</guid>
+      <description>Machine:
+  Intel i5 4670k 3.4GHz
+  8GB RAM
+  Samsung SSD
+  Gentoo 4.17.13 / systemd / i3 wm
+  Boot time: 5.204s
+  /usr 14GB
+  Block Size 1M
+ Compression level 22  Size: 3.8GB Compression time: 12m29s Boot time:   Compression level 15   Size: 4.0GB
+  Compression time: 4m39s
+  Boot time:
+      </description>
+    </item>
+    
+    <item>
+      <title>Top 5 Reliable Cars Under $1500</title>
+      <link>https://blog.jesvs.com/p641/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/p641/</guid>
+      <description>  Ford Crown Victoria. 2001-
+  Nissan Sentra. 1995-1999. 1.6L
+  Toyota Corolla/Geo Prism 1993-1997.
+  Honda Accord 1998-2002 2.3L V4.
+  Toyota Camry 1992-2005 (1996-) 2.2L.
+  </description>
+    </item>
+    
+    <item>
+      <title>Tres Secretos de la Confianza</title>
+      <link>https://blog.jesvs.com/p556/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/p556/</guid>
+      <description> Creerse competente. Creerse hábil de aprender y resolver problemas. Creerse valioso (autoestima).  </description>
+    </item>
+    
+    <item>
+      <title>You Should Know</title>
+      <link>https://blog.jesvs.com/p541/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/p541/</guid>
+      <description>Drama is never worth putting up with. If someone over age 18 can’t be a  reasonable adult on a consistent basis, avoid that person.
+If you can make a reasonable living doing what you love, DO WHAT YOU  LOVE.. You may not get rich, but you’ll get to do what you love. Don’t
+quit your day job until doing what you love pays the bills, but don’t incur</description>
+    </item>
+    
+  </channel>
+</rss>

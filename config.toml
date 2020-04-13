@@ -1,0 +1,41 @@
+title = "Blog de jesvs"
+baseURL = "https://blog.jesvs.com"
+languageCode = "en-mx"
+theme = "ananke"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "es"
+SectionPagesMenu = "main"
+Paginate = 10
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[markup]
+  [markup.highlight]
+    guessSyntax = false
+    style = "dracula"
+    tabWidth = 4
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  description = "Anotaciones sin afán de trascender."
+  facebook = ""
+  twitter = "https://twitter.com/jesvs"
+  instagram = ""
+  youtube = ""
+  github = "https://github.com/jesvs"
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-gold"
+  featured_image = "/images/hero.jpg"
+  recent_posts_number = 4
+  body_classes = "system-sans-serif bg-near-white"

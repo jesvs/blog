@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>luna on Blog de jesvs</title>
+    <link>https://blog.jesvs.com/tags/luna/</link>
+    <description>Recent content in luna on Blog de jesvs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-mx</language>
+    <lastBuildDate>Tue, 22 Nov 2016 08:43:38 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.jesvs.com/tags/luna/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Luna</title>
+      <link>https://blog.jesvs.com/luna/</link>
+      <pubDate>Tue, 22 Nov 2016 08:43:38 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/luna/</guid>
+      <description>La Luna captada cinco días después de la Super Luna de Noviembre del 2016.
+Video captado con una Canon T3i con la ayuda de un telescopio Meade LXD75 10″.</description>
+    </item>
+    
+  </channel>
+</rss>

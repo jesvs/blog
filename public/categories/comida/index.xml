@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Comida on Blog de jesvs</title>
+    <link>https://blog.jesvs.com/categories/comida/</link>
+    <description>Recent content in Comida on Blog de jesvs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-mx</language>
+    <lastBuildDate>Mon, 29 Aug 2016 21:47:05 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.jesvs.com/categories/comida/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rollos de Helado</title>
+      <link>https://blog.jesvs.com/rollos-de-helado/</link>
+      <pubDate>Mon, 29 Aug 2016 21:47:05 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/rollos-de-helado/</guid>
+      <description>Encontré este interesante video de una manera muy singular de preparar un helado.
+En el video se muestra como en una plancha fría se vierten la crema y un ingrediente que le dará sabor al helado, en este caso una galleta Oreo. Luego de un minuto de trabajar la mezcla con un par de espátulas, se extiende sobre la plancha formando una capa delgada para luego rasparla en forma de rollos.</description>
+    </item>
+    
+  </channel>
+</rss>

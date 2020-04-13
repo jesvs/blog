@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Formula 1 on Blog de jesvs</title>
+    <link>https://blog.jesvs.com/tags/formula-1/</link>
+    <description>Recent content in Formula 1 on Blog de jesvs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-mx</language>
+    <lastBuildDate>Wed, 01 Nov 2017 19:15:32 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.jesvs.com/tags/formula-1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Formula 1 – Mexico ‘67</title>
+      <link>https://blog.jesvs.com/formula-1-mexico-67/</link>
+      <pubDate>Wed, 01 Nov 2017 19:15:32 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/formula-1-mexico-67/</guid>
+      <description>Foto tomada el 22 de octubre de 1967 en el circuito Magdalena Mixhuaca (ahora Autódromo Hnos. Rodríguez). Nótese el alto potencial de riesgo y paupérrimas medidas de seguridad, la cercanía de los aficionados a la pista y la curva resguardada por militares. No cabe duda que eran otros tiempos.</description>
+    </item>
+    
+  </channel>
+</rss>

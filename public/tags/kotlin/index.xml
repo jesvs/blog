@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kotlin on Blog de jesvs</title>
+    <link>https://blog.jesvs.com/tags/kotlin/</link>
+    <description>Recent content in Kotlin on Blog de jesvs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-mx</language>
+    <lastBuildDate>Wed, 19 Feb 2020 14:13:46 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.jesvs.com/tags/kotlin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Setting up a Room database on Android with Kotlin</title>
+      <link>https://blog.jesvs.com/setting-up-a-room-database-on-android-with-kotlin/</link>
+      <pubDate>Wed, 19 Feb 2020 14:13:46 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/setting-up-a-room-database-on-android-with-kotlin/</guid>
+      <description>Setup the required dependencies. You’ll need the room-runtime and room-compiler.
+Dependencies &amp;amp; Gradle plugin // app/build.gradle apply plugin: &amp;#39;kotlin-kapt&amp;#39; dependencies { def room_version = &amp;#34;2.2.3&amp;#34; implementation &amp;#34;androidx.room:room-runtime:$room_version&amp;#34; kapt &amp;#34;androidx.room:room-compiler:$room_version&amp;#34; } Creating the database // Book.kt @Entity data class Book(@PrimaryKey val id: UUID = UUID.randomUUID(), var title: String = &amp;#34;&amp;#34;, var date: Date = Date(), var isComplete: Boolean = false) // database/BookDatabase.kt @Database(entities = [ Book::class ], version=1) @TypeConverters(BookTypeConverters::class) abstract class BookDatabase : RoomDatabase() { abstract fun bookDao(): BookDao } Type Converters // database/BookTypeConverters.</description>
+    </item>
+    
+  </channel>
+</rss>

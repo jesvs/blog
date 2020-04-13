@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cartel on Blog de jesvs</title>
+    <link>https://blog.jesvs.com/tags/cartel/</link>
+    <description>Recent content in Cartel on Blog de jesvs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-mx</language>
+    <lastBuildDate>Fri, 02 Oct 2015 08:12:01 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.jesvs.com/tags/cartel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estáticas Urbanas</title>
+      <link>https://blog.jesvs.com/yo-te-doy-mucho/</link>
+      <pubDate>Fri, 02 Oct 2015 08:12:01 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/yo-te-doy-mucho/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

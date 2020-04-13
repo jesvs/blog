@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VR on Blog de jesvs</title>
+    <link>https://blog.jesvs.com/tags/vr/</link>
+    <description>Recent content in VR on Blog de jesvs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-mx</language>
+    <lastBuildDate>Thu, 03 Mar 2016 05:37:59 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.jesvs.com/tags/vr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Arte en el Siglo XXI</title>
+      <link>https://blog.jesvs.com/arte-en-el-siglo-xxi/</link>
+      <pubDate>Thu, 03 Mar 2016 05:37:59 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/arte-en-el-siglo-xxi/</guid>
+      <description>La idea preconcebida actual es pensar en una galería de arte cuando se habla de una exposición de pinturas, pero esto muy seguramente cambiará en los próximos años.
+Bienvenidos al siglo XXI y el inevitable estado ubicuo de la Realidad Virtual.
+  Tilt Brush de Googlees un software que permite al usuario/artista pintar en un mundo virtual utilizando un sistema de realidad virtual.
+  Las posibilidades son ilimitadas y su futuro muy prometedor, tomando en cuenta que es una tecnología emergente.</description>
+    </item>
+    
+  </channel>
+</rss>

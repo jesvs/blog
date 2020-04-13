@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tecnología on Blog de jesvs</title>
+    <link>https://blog.jesvs.com/categories/tecnolog%C3%ADa/</link>
+    <description>Recent content in Tecnología on Blog de jesvs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-mx</language>
+    <lastBuildDate>Tue, 15 Jan 2019 23:29:03 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.jesvs.com/categories/tecnolog%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Speed up badblocks check</title>
+      <link>https://blog.jesvs.com/speed-up-badblocks-check/</link>
+      <pubDate>Tue, 15 Jan 2019 23:29:03 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/speed-up-badblocks-check/</guid>
+      <description>Having ordered an external hard drive from China… let me rephrase that; having ordered a really cheap hard drive from an unknown source at the farthest side of the world, getting it handled by the not so delicate hands of the Mexican post office, and getting it delivered to my door by bicycle, of course I had to check it thoroughly before putting any data in it.
+I started with the well known way of checking for bad blocks on a storage device:</description>
+    </item>
+    
+    <item>
+      <title>fsck’d a full partition</title>
+      <link>https://blog.jesvs.com/fsckd-a-full-partition/</link>
+      <pubDate>Wed, 02 Jan 2019 10:52:09 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/fsckd-a-full-partition/</guid>
+      <description>I run Kodi on my Raspberry Pi 3 mainly to watch live streams and the occasional YouTube video. Along with the media player I also run a pair of Go programs to scrape, store and analyze web data. On New Year’s Eve the root partition on a 32GB SD card got full, this rendered the whole system unresponsive. No big deal, I said. Without ssh access nor physical console, I pulled the power plug from the Pi, took the card out and mounted it on my workstation.</description>
+    </item>
+    
+    <item>
+      <title>Desobediencia Tecnológica</title>
+      <link>https://blog.jesvs.com/desobediencia-tecnologica/</link>
+      <pubDate>Tue, 11 Oct 2016 16:14:13 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/desobediencia-tecnologica/</guid>
+      <description>Fascinante pequeño documental que relata como los cubanos, tras la caída de la unión soviética, tuvieron que readaptar tecnologías existentes para cubrir sus demandas técnicas.</description>
+    </item>
+    
+    <item>
+      <title>Selfie Stick en película Sci-Fi de 1970</title>
+      <link>https://blog.jesvs.com/selfie-stick-en-pelicula-sci-fi-de-1970/</link>
+      <pubDate>Fri, 04 Mar 2016 06:23:58 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/selfie-stick-en-pelicula-sci-fi-de-1970/</guid>
+      <description>El clip es de una película Checa cómica de ciencia ficción titulada Zabil jsem Einsteina, panove(Maté a Einstein, caballeros) de 1970.
+La trama suena como un verdadero petardo: debido a la radiación nuclear a las mujeres les creció barba y perdieron la habilidad de concebir. En las Naciones Unidas se debate la posibilidad de construir una máquina del tiempo para viajar al pasado, asesinar a Einstein, y así impedir que las bombas nucleares sean inventadas.</description>
+    </item>
+    
+    <item>
+      <title>Arte en el Siglo XXI</title>
+      <link>https://blog.jesvs.com/arte-en-el-siglo-xxi/</link>
+      <pubDate>Thu, 03 Mar 2016 05:37:59 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/arte-en-el-siglo-xxi/</guid>
+      <description>La idea preconcebida actual es pensar en una galería de arte cuando se habla de una exposición de pinturas, pero esto muy seguramente cambiará en los próximos años.
+Bienvenidos al siglo XXI y el inevitable estado ubicuo de la Realidad Virtual.
+  Tilt Brush de Googlees un software que permite al usuario/artista pintar en un mundo virtual utilizando un sistema de realidad virtual.
+  Las posibilidades son ilimitadas y su futuro muy prometedor, tomando en cuenta que es una tecnología emergente.</description>
+    </item>
+    
+    <item>
+      <title>PHP trojan inside a PNG</title>
+      <link>https://blog.jesvs.com/php-trojan-inside-a-png/</link>
+      <pubDate>Fri, 12 Sep 2014 02:32:14 +0000</pubDate>
+      
+      <guid>https://blog.jesvs.com/php-trojan-inside-a-png/</guid>
+      <description>During a recent security audit I found a PHP script obfuscated inside a filename called social.png, that was used via an include call from another PHP file. This script came inside a pirated version of a commercial plugin for WordPress. The file is identified as Trojan.PHP.Shell.W or PHP/Alter.A by some malware checking tools (ESET-NOD32, BitDefender).
+Inside the script I decoded the following data: domain names, emails and a public key. They are being used for malicious purposes (spread malware) mostly on WordPress.</description>
+    </item>
+    
+  </channel>
+</rss>
