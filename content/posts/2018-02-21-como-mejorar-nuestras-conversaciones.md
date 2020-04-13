@@ -19,7 +19,7 @@ Comparto estas notas tomadas del libro «[Improv(e) Your Conversations][1]» de 
   * Observa hacia donde alguien quiere llevar una conversación y encuéntralo ahí, te irán dejando un camino de migajas que deberás seguir.
   * Escucha con dinamismo y piensa que emoción los otros jugadores quieren invocar en ti y entrégala. Será una de estas: alegría &#8211; indignación &#8211; humor &#8211; molestia &#8211; asombro &#8211; curiosidad.
 
-<img class="aligncenter size-full wp-image-580" src="https://blog.jesvs.com/wp-content/uploads/2018/02/Watrous_discussion.jpg" alt="" width="764" height="570" />
+<img class="aligncenter size-full wp-image-580" src="/wp-content/uploads/2018/02/Watrous_discussion.jpg" alt="" width="764" height="570" />
 
 ## Reglas
 
@@ -31,7 +31,7 @@ Ejemplo: «– La aseguranza es demasiado cara. – Sí, es un robo. Parece que 
   
 Si alguien te hace una pregunta que no puedes contestar responde con: «No se. Tengo que pensarlo. ¿Tú que piensas?»
 
-<img class="aligncenter size-full wp-image-583" src="https://blog.jesvs.com/wp-content/uploads/2018/02/Auguste_Renoir_Conversation.jpg" alt="" width="1284" height="1468" />
+<img class="aligncenter size-full wp-image-583" src="/wp-content/uploads/2018/02/Auguste_Renoir_Conversation.jpg" alt="" width="1284" height="1468" />
 
 **Regla #3**: Preguntas abiertas son preguntas sin salida que siempre terminan en un silencio incómodo.
   
@@ -50,7 +50,7 @@ Dos opciones para evitar preguntas abiertas:
   
     Ejemplos: «Bueno, creo que esa es la salida…», «Apuesto a que eres bien comelón…», «Haz de ser muy bueno en tenis», «entonces creo que esto quiere decir que somos amigos…», «suena como que esa fiesta estuvo pésima…»
 
-<img class="aligncenter size-full wp-image-581" src="https://blog.jesvs.com/wp-content/uploads/2018/02/4931492.jpg" alt="" width="1024" height="731" />
+<img class="aligncenter size-full wp-image-581" src="/wp-content/uploads/2018/02/4931492.jpg" alt="" width="1024" height="731" />
 
 **Regla #4**: El detalle y especificidad hace a la gente imaginar y por lo tanto interesarse. Al guiar una conversación, pon atención en los detalles y haz que el jugador elabore.
 

@@ -23,7 +23,7 @@ La toma del niño haciendo pasos de ballet fue una muy afortunada casualidad. Es
 
 Bueno, el caso es que llegando a la casa y al ver el video me llama mucho la atención la reacción del niño. Si lo observan bien, comienza a hacer unos pasos similares de ballet, pero a medio giro su expresión corporal se descompone, como si el sintiera que está haciendo algo mal, penoso, vergonzoso, ridículo. Finalmente se va hacía el carrito y hace un pequeño y apagado berrinche.
 
-<img class="aligncenter size-full wp-image-312" src="https://blog.jesvs.com/wp-content/uploads/2016/10/bailarin-1.jpg" alt="bailarin" width="800" height="285" srcset="https://blog.jesvs.com/wp-content/uploads/2016/10/bailarin-1.jpg 800w, https://blog.jesvs.com/wp-content/uploads/2016/10/bailarin-1-300x107.jpg 300w, https://blog.jesvs.com/wp-content/uploads/2016/10/bailarin-1-768x274.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
+<img class="aligncenter size-full wp-image-312" src="/wp-content/uploads/2016/10/bailarin-1.jpg" alt="bailarin" width="800" height="285" srcset="/wp-content/uploads/2016/10/bailarin-1.jpg 800w, /wp-content/uploads/2016/10/bailarin-1-300x107.jpg 300w, /wp-content/uploads/2016/10/bailarin-1-768x274.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
 
 Ese momento fue lo que inspiró todo el video. No se que pasó por la mente de ese niño qué hizo que dejara de bailar tan repentinamente. No hubo ningún regaño ni llamada de atención en ese momento por parte de su madre u otra figura de autoridad, ¿pero antes? ¿Habrá alguien que le haya criticado o ridiculizado sus dotes de &#8220;bailarín&#8221;? Sus amigos, su familia… tal vez nunca lo sabremos.
 

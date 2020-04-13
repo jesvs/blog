@@ -8,7 +8,7 @@ categories:
   - Uncategorized
 
 ---
-<img class="size-medium wp-image-58 alignnone" src="https://blog.jesvs.com/wp-content/uploads/2015/07/corruption-chain-300x171.jpg" alt="corruption-chain" width="300" height="171" srcset="https://blog.jesvs.com/wp-content/uploads/2015/07/corruption-chain-300x171.jpg 300w, https://blog.jesvs.com/wp-content/uploads/2015/07/corruption-chain.jpg 448w" sizes="(max-width: 300px) 100vw, 300px" />
+<img class="size-medium wp-image-58 alignnone" src="/wp-content/uploads/2015/07/corruption-chain-300x171.jpg" alt="corruption-chain" width="300" height="171" srcset="/wp-content/uploads/2015/07/corruption-chain-300x171.jpg 300w, /wp-content/uploads/2015/07/corruption-chain.jpg 448w" sizes="(max-width: 300px) 100vw, 300px" />
 
 Los funcionarios no funcionan.
   
@@ -52,7 +52,7 @@ En el Río de la Plata, llamamos bobo al corazón. Y no porque se enamora: lo ll
 
 <div class='attribution-container' style="display: table; padding: 1em; margin: 1em; border: 1px solid #eee;">
   <div class='photo-container' style="display: table-cell; vertical-align: bottom;">
-    <img class="  wp-image-46 alignleft" style="display: block; margin: 0;" src="https://blog.jesvs.com/wp-content/uploads/2015/07/eduardo-galeano-286x300.jpg" alt="eduardo-galeano" width="95" height="100" srcset="https://blog.jesvs.com/wp-content/uploads/2015/07/eduardo-galeano-286x300.jpg 286w, https://blog.jesvs.com/wp-content/uploads/2015/07/eduardo-galeano.jpg 606w" sizes="(max-width: 95px) 100vw, 95px" />
+    <img class="  wp-image-46 alignleft" style="display: block; margin: 0;" src="/wp-content/uploads/2015/07/eduardo-galeano-286x300.jpg" alt="eduardo-galeano" width="95" height="100" srcset="/wp-content/uploads/2015/07/eduardo-galeano-286x300.jpg 286w, /wp-content/uploads/2015/07/eduardo-galeano.jpg 606w" sizes="(max-width: 95px) 100vw, 95px" />
   </div>
   
   <div class='author' style="display: table-cell; vertical-align: bottom; padding-left: 1em;">

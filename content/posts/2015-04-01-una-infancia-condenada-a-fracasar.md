@@ -17,7 +17,7 @@ Los resultados fueron trágicos. El segundo grupo de bebes crecieron con desespe
 
 De cierta forma este mismo experimento se está llevando a cabo en la sociedad moderna. Algunas madres cuentan con acceso fácil a las necesidades básicas de la vida como alimento, resguardo, vestimenta, transportación, atención médica… pero muchas no. Millones de madres viven al día con lo que ganan, trabajando en diferentes lugares por largas horas, dejándolas demasiado ocupadas y cansadas para darle a sus hijos la misma atención que sus compañeras mas ricas.
 
-<img class="aligncenter wp-image-27 size-full" src="https://blog.jesvs.com/wp-content/uploads/2015/04/childPoverty.jpg" alt="childPoverty" width="690" height="454" srcset="https://blog.jesvs.com/wp-content/uploads/2015/04/childPoverty.jpg 690w, https://blog.jesvs.com/wp-content/uploads/2015/04/childPoverty-300x197.jpg 300w" sizes="(max-width: 690px) 100vw, 690px" />
+<img class="aligncenter wp-image-27 size-full" src="/wp-content/uploads/2015/04/childPoverty.jpg" alt="childPoverty" width="690" height="454" srcset="/wp-content/uploads/2015/04/childPoverty.jpg 690w, /wp-content/uploads/2015/04/childPoverty-300x197.jpg 300w" sizes="(max-width: 690px) 100vw, 690px" />
 
 La diferencia es tan drástica que los niños criados en pobreza tienen una actividad cerebral que parece como si hubiera sido dañada por un infarto. Estudio tras estudio ha demostrado que esas marcas duran hasta la edad adulta, afectando desde oportunidades de trabajo hasta la felicidad matrimonial.
 
@@ -31,6 +31,6 @@ Los hijos de padres de bajos ingresos usualmente se encuentran a si mismos en un
 
 Para cuando entran a la fuerza laboral, no es difícil ver como esos dos grupos se han arraigado con dos diferentes actitudes hacia el éxito. Los hijos de padres de alto ingreso han aprendido habilidades de liderazgo como tomar la iniciativa, tratar a las autoridades como similares, y pensar fuera de la caja, mientras que sus compañeros de bajo ingreso han aprendido a mantener sus cabezas agachadas y hacer solo lo que se les pide.
 
-<img class="aligncenter wp-image-23 size-large" src="https://blog.jesvs.com/wp-content/uploads/2015/04/header-poverty-1024x640.jpg" alt="" width="620" height="388" srcset="https://blog.jesvs.com/wp-content/uploads/2015/04/header-poverty-1024x640.jpg 1024w, https://blog.jesvs.com/wp-content/uploads/2015/04/header-poverty-300x188.jpg 300w, https://blog.jesvs.com/wp-content/uploads/2015/04/header-poverty.jpg 1600w" sizes="(max-width: 620px) 100vw, 620px" />
+<img class="aligncenter wp-image-23 size-large" src="/wp-content/uploads/2015/04/header-poverty-1024x640.jpg" alt="" width="620" height="388" srcset="/wp-content/uploads/2015/04/header-poverty-1024x640.jpg 1024w, /wp-content/uploads/2015/04/header-poverty-300x188.jpg 300w, /wp-content/uploads/2015/04/header-poverty.jpg 1600w" sizes="(max-width: 620px) 100vw, 620px" />
 
 Para aquellos que han tenido éxito en lo material, les puede parecer que todos todos los demás han elegido no seguir ese mismo camino, pero la realidad es que la mayoría no sabe como encontrar ese camino. La mayor y mas grande tragedia es que para muchos en la economía actual, el camino puede que ni siquiera exista en toda su vida.

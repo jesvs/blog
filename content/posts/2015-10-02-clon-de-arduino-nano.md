@@ -22,5 +22,5 @@ Vaya tiempos que nos tocó vivir, medidas de seguridad en un driver para contrar
 
 Drivers para el chip CH34xG: Windows [CH341SER][1] | Mac [CH341SER_MAC][2].
 
- [1]: https://blog.jesvs.com/wp-content/uploads/2015/10/CH341SER.zip
- [2]: https://blog.jesvs.com/wp-content/uploads/2015/10/CH341SER_MAC.zip
+ [1]: /wp-content/uploads/2015/10/CH341SER.zip
+ [2]: /wp-content/uploads/2015/10/CH341SER_MAC.zip

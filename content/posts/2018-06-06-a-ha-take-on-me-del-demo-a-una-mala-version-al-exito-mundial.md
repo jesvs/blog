@@ -7,7 +7,7 @@ url: /a-ha-take-on-me-del-demo-a-una-mala-version-al-exito-mundial/
 enclosure:
   - |
     |
-        https://blog.jesvs.com/wp-content/uploads/2018/06/a-ha-Take-On-Me-Original-Version.webm
+        /wp-content/uploads/2018/06/a-ha-Take-On-Me-Original-Version.webm
         9016491
         video/webm
         
@@ -26,7 +26,7 @@ La primer versión de 1981, titulada en ese entonces «The Juicy Fruit Song» er
 La segunda versión de 1982 es una «demo» grabada en otoño, por la banda ya bajo el nombre de A-ha.
 
 <div style="width: 478px;" class="wp-video">
-  <video class="wp-video-shortcode" id="video-611-3" width="478" height="360" preload="metadata" controls="controls"><source type="video/webm" src="https://blog.jesvs.com/wp-content/uploads/2018/06/a-ha-Take-On-Me-Original-Version.webm?_=3" /><a href="https://blog.jesvs.com/wp-content/uploads/2018/06/a-ha-Take-On-Me-Original-Version.webm">https://blog.jesvs.com/wp-content/uploads/2018/06/a-ha-Take-On-Me-Original-Version.webm</a></video>
+  <video class="wp-video-shortcode" id="video-611-3" width="478" height="360" preload="metadata" controls="controls"><source type="video/webm" src="/wp-content/uploads/2018/06/a-ha-Take-On-Me-Original-Version.webm?_=3" /><a href="/wp-content/uploads/2018/06/a-ha-Take-On-Me-Original-Version.webm">/wp-content/uploads/2018/06/a-ha-Take-On-Me-Original-Version.webm</a></video>
 </div>
 
 La tercera versión es de 1984, fue producida profesionalmente en un estudio de grabación, al igual que el video. No tuvo el éxito que se esperaba en las listas de popularidad, resultando en un rotundo fracaso y quedando relegada al olvido.

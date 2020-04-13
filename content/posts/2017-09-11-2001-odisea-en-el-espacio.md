@@ -8,7 +8,7 @@ featured_image: /wp-content/uploads/2017/09/2001.jpg
 enclosure:
   - |
     |
-        https://blog.jesvs.com/wp-content/uploads/2017/09/odisea_en_el_cine.mp3
+        /wp-content/uploads/2017/09/odisea_en_el_cine.mp3
         5600906
         audio/mpeg
         
@@ -16,7 +16,7 @@ categories:
   - Cine
 
 ---
-<audio class="wp-audio-shortcode" id="audio-447-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://blog.jesvs.com/wp-content/uploads/2017/09/odisea\_en\_el\_cine.mp3?\_=2" />[https://blog.jesvs.com/wp-content/uploads/2017/09/odisea\_en\_el_cine.mp3][1]</audio>
+<audio class="wp-audio-shortcode" id="audio-447-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="/wp-content/uploads/2017/09/odisea\_en\_el\_cine.mp3?\_=2" />[/wp-content/uploads/2017/09/odisea\_en\_el_cine.mp3][1]</audio>
 
 En el espacio de «Contenidos Alternativos» de Cinepolis han programado algunas películas de Stanley Kubrik, entre ellas una de mis favoritas (si no es que **mi** favorita): 2001 Odisea en el Espacio. Estoy seguro que debo haberla visto más de 10 veces, pero nunca en el cine, así que esta oportunidad no la iba a dejar pasar.
 
@@ -48,4 +48,4 @@ Ya he perdido la cuenta de cuantas veces he visto 2001 Odisea en el Espacio, y a
 
 Si son fanáticos de esta película u otra que no hayan podido experimentar en una sala de cine, háganse el favor de ir a verla cuando esté proyectándose en su ciudad. Es una experiencia totalmente distinta ir a ver una película de estreno a una que la mayoría de los asistentes guardamos en un lugar muy especial de nuestro corazón.
 
- [1]: https://blog.jesvs.com/wp-content/uploads/2017/09/odisea_en_el_cine.mp3
+ [1]: /wp-content/uploads/2017/09/odisea_en_el_cine.mp3

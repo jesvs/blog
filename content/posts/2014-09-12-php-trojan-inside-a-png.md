@@ -26,6 +26,6 @@ Luckily for my client his server is configured to send emails only by authentica
   * Check you WordPress database inside the (wp)\_options table for the field WP\_CLIENT_KEY, remove it if it matches the malicious public key posted above or if you don&#8217;t use an external admin panel for your site.
   * Avoid installing plugins from untrustworthy sources (pirate sites, nulled scripts, et al.)
 
- [1]: https://blog.jesvs.com/wp-content/uploads/2017/11/malicious-domains.txt
- [2]: https://blog.jesvs.com/wp-content/uploads/2017/11/malicious-emails.txt
- [3]: https://blog.jesvs.com/wp-content/uploads/2017/11/malicious-keys.txt
+ [1]: /wp-content/uploads/2017/11/malicious-domains.txt
+ [2]: /wp-content/uploads/2017/11/malicious-emails.txt
+ [3]: /wp-content/uploads/2017/11/malicious-keys.txt

@@ -7,7 +7,7 @@ url: /selfie-stick-en-pelicula-sci-fi-de-1970/
 enclosure:
   - |
     |
-        https://blog.jesvs.com/wp-content/uploads/2016/03/selfie-stick.webm
+        /wp-content/uploads/2016/03/selfie-stick.webm
         306000
         video/webm
         
@@ -18,7 +18,7 @@ format: video
 
 ---
 <div style="width: 640px;" class="wp-video">
-  <video class="wp-video-shortcode" id="video-184-2" width="640" height="360" preload="metadata" controls="controls"><source type="video/webm" src="https://blog.jesvs.com/wp-content/uploads/2016/03/selfie-stick.webm?_=2" /><a href="https://blog.jesvs.com/wp-content/uploads/2016/03/selfie-stick.webm">https://blog.jesvs.com/wp-content/uploads/2016/03/selfie-stick.webm</a></video>
+  <video class="wp-video-shortcode" id="video-184-2" width="640" height="360" preload="metadata" controls="controls"><source type="video/webm" src="/wp-content/uploads/2016/03/selfie-stick.webm?_=2" /><a href="/wp-content/uploads/2016/03/selfie-stick.webm">/wp-content/uploads/2016/03/selfie-stick.webm</a></video>
 </div>
 
 El clip es de una película Checa cómica de ciencia ficción titulada <a href="http://www.imdb.com/title/tt0065235/" target="_blank">Zabil jsem Einsteina, panove</a> (Maté a Einstein, caballeros) de 1970.

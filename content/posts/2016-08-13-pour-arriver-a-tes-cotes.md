@@ -8,7 +8,7 @@ featured_image: /wp-content/uploads/2016/08/lhasa-825x510.jpg
 enclosure:
   - |
     |
-        https://blog.jesvs.com/wp-content/uploads/2016/08/pour-arriver-a-tes-cotes.mp3
+        /wp-content/uploads/2016/08/pour-arriver-a-tes-cotes.mp3
         686592
         audio/mpeg
         
